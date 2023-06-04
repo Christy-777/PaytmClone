@@ -1,2 +1,1 @@
-# PaytmClone
-Paytm Website Clone 
+# Paytm
